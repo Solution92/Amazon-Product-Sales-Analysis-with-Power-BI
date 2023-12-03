@@ -134,7 +134,6 @@ Here are a few potential limitations that should be considered:
 For product sales from E-commerce stores and related, you may refer to kaggle.com
 
 
-#data #loan #decision #application #analysis #approval #finance #communication #teamwork #powerbi
 
 
 
