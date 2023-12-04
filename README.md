@@ -1,5 +1,21 @@
 # Amazon Product Sales Analysis with Power BI
 
+## Table of Content
+- [Project Objective](#project-objective)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Cleaning Processes](#cleaning-processes)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
+- [Key Performance Indicators (KPIs)]($key-performance-indicators)
+- [Analytical Insights](#analytical-insights)
+- [Visualization](#visualization)
+- [Result and Findings](#result-and-findings)
+- [Recommendation](#recommendation)
+- [Limitation](#limitation)
+- [Reference](#reference)
+
+
 ### Project Objective
 
 Amazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. 
@@ -114,7 +130,7 @@ Concerning my analysis of Amazon Product Sales with Power BI, here are my findin
 Based on the analysis of Amazon Product Sales dataset with Power BI, here are some recommendations for the products:
 - Discount Strategies: Consider reviewing the discount strategy for the product with the highest Sum of Discount Percentage, "Sounce Fast Phone Charging Cable & Data Sync USB Cable Compatible for iPhone 13, 12,11, X, 8, 7, 6, 5, iPad Air, Pro, Mini & iOS Devices" with a Sum of discount percentage at 7.20. Assess whether such a high discount is driving sales effectively or if there are alternative strategies to increase sales without significant discounts.
 - Product Focus: Given that "Sounce Fast Phone Charging Cable..." accounts for a significant portion (1.30%) of the total Sum of Discount Percentage, evaluate its overall performance in terms of sales and profitability. If it's a high-performing product, consider optimizing its marketing and distribution channels.
-- Review Ratings Impact: Products with a "Good" rating category seem to have the highest number of reviews. Consider investigating the factors contributing to positive reviews and leverage this information in marketing strategies. It might also be beneficial to address any concerns or issues raised by users with lower ratings.
+- Review Rating Impact: Products with a "Good" rating category seem to have the highest number of reviews. Consider investigating the factors contributing to positive reviews and leverage this information in marketing strategies. It might also be beneficial to address any concerns or issues raised by users with lower ratings.
 - Product Diversification: Explore opportunities to diversify the product portfolio. While TVs like "Redmi 126 cm (50 inches) 4K Ultra HD Android Smart LED TV X50" and "OnePlus 126 cm (50 inches) Y Series 4K Ultra HD Smart Android LED TV 50Y1S Pro" are top performers, expanding into other categories or introducing new products could enhance the overall product offering.
 Marketing and Visibility: Products with lower reviews and ratings might benefit from enhanced marketing efforts to increase visibility and improve customer perception. Implement targeted marketing campaigns, promotions, or product improvements to boost sales and reviews.
 - Competitive Analysis: Conduct a competitive analysis, especially for products with lower sales. Understand the market landscape, pricing strategies of competitors, and customer preferences. This analysis can provide insights into areas where your products can stand out or be more competitive.
